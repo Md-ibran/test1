@@ -9,6 +9,7 @@ public class Test1Application {
 	public static void main(String[] args) {
 		String name = "devil"
 			String name = "Ibran"
+			String name = "devil"
 		SpringApplication.run(Test1Application.class, args);
 	}
 
