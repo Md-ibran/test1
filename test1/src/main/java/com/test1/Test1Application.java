@@ -9,6 +9,7 @@ public class Test1Application {
 	public static void main(String[] args) {
 		String Mummy = "shahani khatoon"
 			String mylove = "meri Ammi jaan"
+			int y =230;
 		SpringApplication.run(Test1Application.class, args);
 	}
 
